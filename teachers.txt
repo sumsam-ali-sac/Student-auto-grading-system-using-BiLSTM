@@ -1,0 +1,3 @@
+professor1,password4,elradfmwM
+instructor2,password5,elradfmwM
+lecturer3,password6,elradfmwM
